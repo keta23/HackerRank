@@ -1,4 +1,6 @@
-class Person:
+
+#to classify age of person .some basic logic of if and else is used in this code.
+iclass Person:
     def __init__(self, initial_Age):
         if initial_Age < 0:
             self.age = 0
